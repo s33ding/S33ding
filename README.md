@@ -36,4 +36,5 @@ SOME OF MY PROJECTS:
 - [Cryptography](https://github.com/s33ding/cryptography)
 - [Speedtest-DataEngineering](https://github.com/s33ding/speedtest-CLI_dataEngineering)
 - [Financial Control - Wifi-BR](https://github.com/s33ding/financial_control_wifi-BR)
- 
+- [Ipython Scripts](https://github.com/s33ding/Ipython)
+
