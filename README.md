@@ -37,4 +37,5 @@ SOME OF MY PROJECTS:
 - [Speedtest](https://github.com/s33ding/speedtest)
 - [Financial Control - Wifi-BR](https://github.com/s33ding/financial_control_wifi-BR)
 - [Ipython Scripts](https://github.com/s33ding/Ipython)
+- [My Resume](https://github.com/s33ding/my_resume)
 
