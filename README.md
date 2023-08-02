@@ -5,7 +5,7 @@
 :house_with_garden: I’m from Brazil, I live in Brasilia.
 
 ----------------------------------------------------------------------------------
-## Language and tools:
+  ## Language and tools:
 
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -18,7 +18,7 @@
 
   
   ----------------------------------------------------------------------------------  
-## Contact:
+  ## Contact:
   <a href = "mailto:robertomdiniz@protonmail.com">
     <img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/s33ding" target="_blank">
