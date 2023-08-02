@@ -2,7 +2,7 @@
 
 :computer: I'm student of Data Science at <a href="https://www.iesb.br/">IESB</a> and I work as a Data Engineer in <a href="https://www.tisaude.com/">TI.Saúde.</a>
 
-:house_with_garden: I’m from Brazil, I live in Brasilia.
+:house_with_garden: I’m from Brazil and I live in Brasilia.
 
 ----------------------------------------------------------------------------------
   ## Language and tools:
