@@ -27,8 +27,9 @@
   
 ----------------------------------------------------------------------------------  
 SOME OF MY PROJECTS:
-
+- [AWS](https://github.com/s33ding/aws)
 - [Cryptography](https://github.com/s33ding/cryptography)
+- [OSINTube-RealTimeGuard](https://github.com/s33ding/OSINTube-RealTimeGuard)
 - [Speedtest](https://github.com/s33ding/speedtest)
 - [Financial Control - Wifi-BR](https://github.com/s33ding/financial_control_wifi-BR)
 - [ENEM_PySpark_ML ](https://github.com/s33ding/ENEM_PySpark_ML)
