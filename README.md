@@ -4,8 +4,6 @@
 
 :mortar_board: Data Science student at <a href="https://www.iesb.br/">IESB</a> | :house_with_garden: Brasília, Brazil
 
-:trophy: **AWS Certified Developer Associate** | **KCNA Certified** | **GitHub Foundations Certified**
-
 ----------------------------------------------------------------------------------
 ## Core Technologies & Expertise:
 <div>
@@ -18,7 +16,7 @@
   <img align="center" alt="Pandas" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Bash" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Terraform" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Terraform" height="35" width="45" src="https://www.svgrepo.com/show/354447/terraform-icon.svg">
 </div>
 
 **Specializations:** Data Pipelines • Cloud Architecture • ETL/ELT • Data Lakes • Machine Learning • DevOps
