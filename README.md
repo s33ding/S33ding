@@ -36,7 +36,6 @@
 ## Featured Projects:
 - 🔐 [**Cryptography**](https://github.com/s33ding/cryptography) - Security implementations and cryptographic algorithms
 - 🎯 [**OSINTube-RealTimeGuard**](https://github.com/s33ding/OSINTube-RealTimeGuard) - Real-time monitoring and OSINT analysis
-- ⚡ [**Speedtest**](https://github.com/s33ding/speedtest) - Network performance monitoring tool
 - 💰 [**Financial Control - Wifi-BR**](https://github.com/s33ding/financial_control_wifi-BR) - Financial management system
 - 🎓 [**ENEM_PySpark_ML**](https://github.com/s33ding/ENEM_PySpark_ML) - Machine Learning analysis using PySpark
 - ☁️ [**AWS**](https://github.com/s33ding/aws) - Cloud infrastructure and automation scripts
