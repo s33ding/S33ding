@@ -1,6 +1,6 @@
 ## Hey World, I'm Roberto  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-:computer: **Data Engineer** with 3+ years of experience building scalable data pipelines and cloud solutions at <a href="https://www.tisaude.com/">TI.Saúde</a>
+:computer: **Data Engineer** with 4+ years of experience building scalable data pipelines and cloud solutions at <a href="https://www.tisaude.com/">TI.Saúde</a>
 
 :mortar_board: Data Science student at <a href="https://www.iesb.br/">IESB</a> | :house_with_garden: Brasília, Brazil
 
@@ -32,13 +32,6 @@
 
 [📜 View All 50+ Certifications](https://robertomdiniz.s3.amazonaws.com/accomplishments.html)
 
-----------------------------------------------------------------------------------
-## Featured Projects:
-- 🔐 [**Cryptography**](https://github.com/s33ding/cryptography) - Security implementations and cryptographic algorithms
-- 🎯 [**OSINTube-RealTimeGuard**](https://github.com/s33ding/OSINTube-RealTimeGuard) - Real-time monitoring and OSINT analysis
-- 💰 [**Financial Control - Wifi-BR**](https://github.com/s33ding/financial_control_wifi-BR) - Financial management system
-- 🎓 [**ENEM_PySpark_ML**](https://github.com/s33ding/ENEM_PySpark_ML) - Machine Learning analysis using PySpark
-- ☁️ [**AWS**](https://github.com/s33ding/aws) - Cloud infrastructure and automation scripts
 
 ----------------------------------------------------------------------------------
 ## Technical Stack:
